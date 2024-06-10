@@ -1,0 +1,1 @@
+('ochrona przyrody', 'rolnictwo', 'pomoc finansowa', 'oświata i wychowanie', 'dokumenty', 'wynagrodzenia', 'opieka zdrowotna', 'podatki', 'ochrona zdrowia', 'ochrona środowiska', 'świadczenia lecznicze', 'inwestycje', 'umowy międzynarodowe', 'energetyka', 'kwalifikacje', 'szkolnictwo', 'rejestry', 'choroby zakaźne', 'kontrola', 'żołnierz zawodowy')
